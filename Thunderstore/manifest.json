@@ -1,14 +1,13 @@
 {
-    "name": "AdamSmithsonMod",
-    "author": "Cirosraven",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Cirosraven-Dev/Adam-Smithson-Risk-of-Rain-2-Mod",
-    "description": "Adds Adam Smithson from 'Hell is Others' as a playable survivor in Risk of Rain 2.",
-    "dependencies": [
-        "bbepis-BepInExPack-5.4.2117",
-        "RiskofThunder-R2API_Core-5.0.4",
-        "RiskofThunder-R2API_ContentManagement-1.0.5",
-        "RiskofThunder-R2API_SurvivorAPI-1.0.1",
-        "RiskofThunder-R2API_LanguageAPI-1.2.1"
-    ]
+  "name": "AdamSmithsonMod",
+  "author": "Cirosraven",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Cirosraven-Dev/Adam-Smithson-Risk-of-Rain-2-Mod",
+  "description": "Adds Adam Smithson from 'Hell is Others' as a playable survivor in Risk of Rain 2.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2117",
+    "RiskofThunder-R2API_Core-5.1.1",
+    "RiskofThunder-R2API_ContentManagement-1.0.5",
+    "RiskofThunder-R2API_Language-1.0.1"
+  ]
 }
