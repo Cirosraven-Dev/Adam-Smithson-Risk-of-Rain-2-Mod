@@ -6,9 +6,9 @@
     "description": "Adds Adam Smithson from 'Hell is Others' as a playable survivor in Risk of Rain 2.",
     "dependencies": [
         "bbepis-BepInExPack-5.4.2117",
-        "RiskofThunder-R2API_Core",
-        "RiskofThunder-R2API_ContentManagement",
-        "RiskofThunder-R2API_SurvivorAPI",
-        "RiskofThunder-R2API_LanguageAPI"
+        "RiskofThunder-R2API_Core-5.0.4",
+        "RiskofThunder-R2API_ContentManagement-1.0.5",
+        "RiskofThunder-R2API_SurvivorAPI-1.0.1",
+        "RiskofThunder-R2API_LanguageAPI-1.2.1"
     ]
 }
